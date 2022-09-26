@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Daltonismo</string>
+    <string name="o_que">O que é ?</string>
+    <string name="daltonismo_texto">Daltonismo é um distúrbio da visão que interfere na percepção das cores. Também chamado de discromatopsia ou discromopsia, sua principal característica é a dificuldade para distinguir o vermelho e o verde e, com menos frequência, o azul e o amarelo.</string>
+    <string name="faca_o_teste">Faça o teste !</string>
+    <string name="teste_1">Teste 1</string>
+    <string name="suas_respostas">Suas respostas:</string>
+    <string name="teste_2">Teste 2</string>
+    <string name="teste_3">Teste 3</string>
+    <string name="verificar">Verificar</string>
+    <string name="imagem_abaixo">Que número você vê na imagem abaixo ?</string>
+    <string name="digite">Digite</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="vc_nao_e_daltonico">Você não é daltônico</string>
+    <string name="vc_e_daltonico">Você é daltônico</string>
+    <string name="vc_enxerga_mto_bem">Você enxerga muito bem</string>
+    <string name="procure_um_medico">Procure um médico</string>
+    <string name="cancel">Cancelado</string>
+</resources>
